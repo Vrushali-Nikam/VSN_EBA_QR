@@ -9,7 +9,7 @@
 **Official implementation** of:
 
 > **“EBA-QR: An Entropy-Based Adaptive Quantum Image Representation Framework for Efficient Multi-Modal Image Processing”**  
-> *Tanisha Debnath* – Institute of Engineering & Management, Kolkata, India.
+> *Vrushali Nikam* – MET BKC IOE Nashik, India.
 
 ---
 
@@ -135,21 +135,6 @@ Then open the `.ipynb` notebook in Jupyter or VS Code and run all cells.
 
 ---
 
-##  Citation
-
-If you use this repository or build upon EBA-QR, please cite:
-
-```bibtex
-@article{debnath2025eba,
-  title   = {EBA-QR: An Entropy-Based Adaptive Quantum Image Representation Framework for Efficient Multi-Modal Image Processing},
-  author  = {Debnath, Tanisha},
-  journal = {arXiv preprint},
-  year    = {2025},
-  note    = {Under review}
-}
-```
-
----
 
 ##  License
 
@@ -161,8 +146,9 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 For questions, feedback or collaborations:
 
-- **Author:** Tanisha Debnath  
-- **Affiliation:** Institute of Engineering & Management, Kolkata  
-- **Email:** [tanishabdebnath@gmail.com](mailto:tanishabdebnath@gmail.com)  
-- **Project:** [https://github.com/TanishaDebnath/EBA-QR](https://github.com/TanishaDebnath/EBA-QR)
+- **Author:** Vrushali Nikam
+- **Affiliation:** MET BKC IOE , India 
+- **Email:** [vrushali.nik@gmail.com](vrushali.nik@gmail.com)
+- - **Email:** [vrushali.nikam@ges-coengg.org](vrushali.nikam@ges-coengg.org)  
+  
 
